@@ -34,6 +34,7 @@ public class PedidoOriginal {
 		double precioFinal = procesarPedido(carrito, 10, 5);
 		System.out.println("El precio final del pedido es: " + precioFinal);
 		System.out.println("Hola");
+		System.out.println("ADIOS");
 		}
 	
 	
