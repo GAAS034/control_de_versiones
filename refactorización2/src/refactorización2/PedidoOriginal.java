@@ -1,5 +1,8 @@
 package refactorización2;
 
+/*
+ * Juan Carlos Ha estado aquí
+ */
 public class PedidoOriginal {
 	public static double procesarPedido(Product[] productos, double impuesto, double descuento) {
 		double subtotal = 0;
